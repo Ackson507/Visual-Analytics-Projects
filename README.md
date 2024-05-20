@@ -1,5 +1,7 @@
 # Visual-Analytics-Projects
 This involves representing data graphically through charts, graphs, maps, and other visual elements. Interactive dashboards and reports that allows users to ask ad-hoc questions, test hypotheses, and gain deeper insights by engaging with the visual data directly.
+![Data-Visualization-thumbnail](https://github.com/Ackson507/Visual-Analytics-Projects/assets/84422970/bed111c2-2f98-4f7a-9e7b-0317e6d6485e)
+
 
 ## Table of Contents
 
